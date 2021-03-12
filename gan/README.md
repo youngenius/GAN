@@ -1,15 +1,15 @@
 # Explanation
 
-![Not so big](explain\1.JPG)
+![Not so big](explain\1.png)
 
-![Not so big](explain\2.JPG)
+![Not so big](explain\2.png)
 
-![Not so big](explain\슬라이드8.JPG)
+![Not so big](explain\3.png)
 
-![Not so big](explain\슬라이드9.JPG)
+![Not so big](explain\4.png)
 
-![Not so big](explain\슬라이드10.JPG)
+![Not so big](explain\5.png)
 
-![Not so big](explain\슬라이드11.JPG)
+![Not so big](explain\6.png)
 
 
